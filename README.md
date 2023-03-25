@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A simple CD tool which I wrote when we had some troubles with other mainstream devops CD tools.
 
 ## Available Scripts
 
